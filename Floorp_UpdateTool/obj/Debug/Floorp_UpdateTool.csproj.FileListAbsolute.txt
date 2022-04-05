@@ -1,0 +1,14 @@
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\bin\Debug\Floorp_UpdateTool.exe.config
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\bin\Debug\Floorp_UpdateTool.exe
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\bin\Debug\Floorp_UpdateTool.pdb
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\bin\Debug\INIFileParser.dll
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\bin\Debug\INIFileParser.xml
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\obj\Debug\Floorp_UpdateTool.csproj.AssemblyReference.cache
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\obj\Debug\Floorp_UpdateTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\obj\Debug\Floorp_UpdateTool.Main_Form.resources
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\obj\Debug\Floorp_UpdateTool.Properties.Resources.resources
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\obj\Debug\Floorp_UpdateTool.csproj.GenerateResource.cache
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\obj\Debug\Floorp_UpdateTool.csproj.CoreCompileInputs.cache
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\obj\Debug\Floorp_UpdateTool.csproj.CopyComplete
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\obj\Debug\Floorp_UpdateTool.exe
+C:\Users\Rumisan\source\repos\Floorp_UpdateTool\Floorp_UpdateTool\obj\Debug\Floorp_UpdateTool.pdb
